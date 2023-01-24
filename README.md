@@ -41,4 +41,4 @@
 	토끼 클래스
 	호랑이 클래스
 	곰 클래스
-	
+	![클래스다이어그램](https://user-images.githubusercontent.com/122511847/214318514-1020c384-6611-4d30-8ad6-992e709f0b07.png)
