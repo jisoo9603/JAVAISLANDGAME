@@ -42,7 +42,6 @@
 	1. 토끼 클래스
 	2. 호랑이 클래스
 	3. 곰 클래스
-	
-	
-	![클래스다이어그램](https://user-images.githubusercontent.com/122511847/214318514-1020c384-6611-4d30-8ad6-992e709f0b07.png)
-	![커뮤다이어그램](https://user-images.githubusercontent.com/122511847/214319461-5b9f008a-9b8e-4ce6-9447-b1b236899c77.png)
+		
+![클래스다이어그램](https://user-images.githubusercontent.com/122511847/214318514-1020c384-6611-4d30-8ad6-992e709f0b07.png)
+![커뮤다이어그램](https://user-images.githubusercontent.com/122511847/214319461-5b9f008a-9b8e-4ce6-9447-b1b236899c77.png)
