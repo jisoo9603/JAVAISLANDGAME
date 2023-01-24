@@ -17,6 +17,7 @@ public class Monster {
 		
 	public void MonsterDie() {
 		MonsterLive = false;
+		System.out.println("몬스터를 해치웠습니다.");
 	}
 
 	public int getMonsterExp() {
@@ -54,5 +55,6 @@ public class Monster {
 	public void getInformation() {
 		System.out.println();
 	}
+	
 	
 }

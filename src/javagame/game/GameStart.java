@@ -16,8 +16,6 @@ public class GameStart {
 		user.setUserName(username);
 		GameMain gomain = new GameMain();
 		gomain.mainstart(user);
-		
-		
 	}
 	
 }
